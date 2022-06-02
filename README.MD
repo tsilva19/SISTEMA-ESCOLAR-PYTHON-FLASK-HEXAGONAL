@@ -23,10 +23,6 @@
 ``` flask run ```
 
 
-## comando para deletar entity
-
-- yarn typeorm migration:revert
-
 ## USANDO a api 
 
 - Acesse http://localhost:8082/alunos?id=1
