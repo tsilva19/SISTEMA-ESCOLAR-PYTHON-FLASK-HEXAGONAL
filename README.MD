@@ -8,6 +8,8 @@
 
 ### INstalação
 
+- no ambiente mysql executar o script_mysql.txt
+
 - na raiz projeto digitar o comando para usar em ambiente virtual: ```python -m venv venv```
 
 - habilitar o ambiente virtual com o comando: 
