@@ -22,6 +22,7 @@
 - Verifica se o arquivo .env existe no projeto e se o ambiente esta ativo digte o comando :
 ``` flask run ```
 
+
 ## comando para deletar entity
 
 - yarn typeorm migration:revert
@@ -30,7 +31,7 @@
 
 - Acesse http://localhost:8082/alunos?id=1
 
-![alt text](https://github.com/tsilva19/Injecao-Dependencia-node/blob/main/injetadependencia.png)
+![thunder-client](https://user-images.githubusercontent.com/39628806/171521318-0731f30d-c79e-4ac5-be10-65a3b9fc18b3.png)
 
 ## FALANDO SOBRE ESTRUTURA HEXAGONAL
 
