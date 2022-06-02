@@ -43,3 +43,5 @@
 - ports: ela faz comunicação entre adaptadores e o usecase
 
 ## DESENHO EXEMPLO HEXAGONAL
+![hexagonal](https://user-images.githubusercontent.com/39628806/171521097-24bc5118-e331-4d7d-9304-808f428540dd.png)
+
